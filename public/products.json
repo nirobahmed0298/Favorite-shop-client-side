@@ -1,0 +1,1538 @@
+[
+    {
+        "product_id": 101,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Experience ultimate comfort with this premium cotton T-shirt, perfect for casual outings or workouts.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Slim fit, Crew Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/628f71c9a6ae3-square.jpg?v=20"
+    },
+    {
+        "product_id": 102,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 900,
+            "discounted": 699
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A lightweight and breathable T-shirt, ideal for summer days and outdoor activities.",
+        "specifications": {
+            "material": "Poly-Cotton Blend",
+            "composition": "60% Cotton, 40% Polyester",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Sublimation print",
+            "preshrunk": "No"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a8d6908-square.jpg?v=20"
+    },
+    {
+        "product_id": 103,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 800,
+            "discounted": 599
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Stay stylish with this trendy T-shirt, featuring a modern design and soft fabric.",
+        "specifications": {
+            "material": "Linen Blend",
+            "composition": "70% Cotton, 30% Linen",
+            "fit": "Oversized fit, V-Neck",
+            "dye": "Natural dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a89245d-square.jpg?v=20"
+    },
+    {
+        "product_id": 104,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 950,
+            "discounted": 749
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "A versatile T-shirt that combines style and comfort, perfect for any occasion.",
+        "specifications": {
+            "material": "Bamboo Fabric",
+            "composition": "100% Bamboo",
+            "fit": "Relaxed fit, Crew Neck",
+            "dye": "Low-impact dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 105,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 870,
+            "discounted": 670
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt offers a perfect blend of durability and softness, making it a wardrobe essential.",
+        "specifications": {
+            "material": "Recycled Cotton",
+            "composition": "100% Recycled Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Water-based dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61207633a8a8f-square.jpg?v=20"
+    },
+    {
+        "product_id": 106,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 920,
+            "discounted": 720
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A classic T-shirt with a modern twist, designed for everyday wear.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Slim fit, V-Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/628f71c9a6ae3-square.jpg?v=20"
+    },
+    {
+        "product_id": 107,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 890,
+            "discounted": 690
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt is made from high-quality fabric, ensuring long-lasting comfort and style.",
+        "specifications": {
+            "material": "Cotton-Polyester Blend",
+            "composition": "50% Cotton, 50% Polyester",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a8d6908-square.jpg?v=20"
+    },
+    {
+        "product_id": 108,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 910,
+            "discounted": 710
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "A lightweight and breathable T-shirt, perfect for hot summer days.",
+        "specifications": {
+            "material": "Linen",
+            "composition": "100% Linen",
+            "fit": "Relaxed fit, Round Neck",
+            "dye": "Natural dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a89245d-square.jpg?v=20"
+    },
+    {
+        "product_id": 109,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 930,
+            "discounted": 730
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt features a unique design and premium fabric for maximum comfort.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Slim fit, Crew Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 110,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 880,
+            "discounted": 680
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A versatile T-shirt that combines style and comfort, perfect for any occasion.",
+        "specifications": {
+            "material": "Bamboo Fabric",
+            "composition": "100% Bamboo",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Low-impact dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61207633a8a8f-square.jpg?v=20"
+    },
+    {
+        "product_id": 111,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 940,
+            "discounted": 740
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt is made from high-quality fabric, ensuring long-lasting comfort and style.",
+        "specifications": {
+            "material": "Recycled Cotton",
+            "composition": "100% Recycled Cotton",
+            "fit": "Slim fit, V-Neck",
+            "dye": "Water-based dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/628f71c9a6ae3-square.jpg?v=20"
+    },
+    {
+        "product_id": 112,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 960,
+            "discounted": 760
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A classic T-shirt with a modern twist, designed for everyday wear.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a8d6908-square.jpg?v=20"
+    },
+    {
+        "product_id": 113,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 970,
+            "discounted": 770
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt offers a perfect blend of durability and softness, making it a wardrobe essential.",
+        "specifications": {
+            "material": "Cotton-Polyester Blend",
+            "composition": "50% Cotton, 50% Polyester",
+            "fit": "Relaxed fit, Round Neck",
+            "dye": "Reactive dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a89245d-square.jpg?v=20"
+    },
+    {
+        "product_id": 114,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 980,
+            "discounted": 780
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "A lightweight and breathable T-shirt, perfect for hot summer days.",
+        "specifications": {
+            "material": "Linen",
+            "composition": "100% Linen",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Natural dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 115,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 990,
+            "discounted": 790
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt features a unique design and premium fabric for maximum comfort.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Slim fit, V-Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/61207633a8a8f-square.jpg?v=20"
+    },
+    {
+        "product_id": 116,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 1000,
+            "discounted": 800
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A versatile T-shirt that combines style and comfort, perfect for any occasion.",
+        "specifications": {
+            "material": "Bamboo Fabric",
+            "composition": "100% Bamboo",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Low-impact dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/628f71c9a6ae3-square.jpg?v=20"
+    },
+    {
+        "product_id": 117,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 1010,
+            "discounted": 810
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt is made from high-quality fabric, ensuring long-lasting comfort and style.",
+        "specifications": {
+            "material": "Recycled Cotton",
+            "composition": "100% Recycled Cotton",
+            "fit": "Slim fit, V-Neck",
+            "dye": "Water-based dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a8d6908-square.jpg?v=20"
+    },
+    {
+        "product_id": 118,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 1020,
+            "discounted": 820
+        },
+        "sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "A classic T-shirt with a modern twist, designed for everyday wear.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Eco-friendly dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "Out of Stock",
+        "image_url": "https://fabrilife.com/products/6291b3a89245d-square.jpg?v=20"
+    },
+    {
+        "product_id": 119,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 1030,
+            "discounted": 830
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "This T-shirt offers a perfect blend of durability and softness, making it a wardrobe essential.",
+        "specifications": {
+            "material": "Cotton-Polyester Blend",
+            "composition": "50% Cotton, 50% Polyester",
+            "fit": "Relaxed fit, Round Neck",
+            "dye": "Reactive dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 120,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 1040,
+            "discounted": 840
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "A lightweight and breathable T-shirt, perfect for hot summer days.",
+        "specifications": {
+            "material": "Linen",
+            "composition": "100% Linen",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Natural dye",
+            "preshrunk": "No"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 122,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 123,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 124,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/64eca9165043c-square.jpg?v=20"
+    },
+    {
+        "product_id": 125,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 126,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 127,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 128,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 129,
+        "product_name": "Mens Premium T-Shirt - Anti",
+        "category": "T-Shirt",
+        "name": "Short Sleeve T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Fabrilife Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts.",
+        "specifications": {
+            "material": "Organic Ringspun Combed Compact Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck Mid-weight, 5.16 oz/yd2 (~175GSM)",
+            "dye": "Reactive Dye, enzyme and silicon washed",
+            "preshrunk": "Minimize shrinkage"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66cdcd7030ca5-square.jpg?v=20"
+    },
+    {
+        "product_id": 130,
+        "product_name": "Mens Premium T-Shirt - Classic",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 800,
+            "discounted": 599
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "A classic plain T-shirt made from premium quality cotton, offering a comfortable and durable wear.",
+        "specifications": {
+            "material": "100% Cotton",
+            "composition": "Organic Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 131,
+        "product_name": "Mens Basic T-Shirt - Soft",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 750,
+            "discounted": 549
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Soft and smooth plain T-shirt, perfect for everyday wear.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Slim fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66269c1de8c78-square.jpg?v=20"
+    },
+    {
+        "product_id": 132,
+        "product_name": "Mens Casual T-Shirt - Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 780,
+            "discounted": 579
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "A comfortable plain T-shirt designed for casual outings and daily use.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020afde-square.jpg?v=20"
+    },
+    {
+        "product_id": 133,
+        "product_name": "Mens Everyday T-Shirt - Simple",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 720,
+            "discounted": 520
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Simple and elegant plain T-shirt for everyday comfort.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e01d687c-square.jpg?v=20"
+    },
+    {
+        "product_id": 134,
+        "product_name": "Mens Premium T-Shirt - Smooth",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 850,
+            "discounted": 649
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Premium quality plain T-shirt with a smooth finish for a luxurious feel.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/6321ad8c39602-square.jpg?v=20"
+    },
+    {
+        "product_id": 135,
+        "product_name": "Mens Basic T-Shirt - Lightweight",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 700,
+            "discounted": 499
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Lightweight plain T-shirt, ideal for summer and warm weather.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "90% Cotton, 10% Polyester",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020791f-square.jpg?v=20"
+    },
+    {
+        "product_id": 136,
+        "product_name": "Mens Casual T-Shirt - Relaxed",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 760,
+            "discounted": 559
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Relaxed fit plain T-shirt for a comfortable and casual look.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Relaxed fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/615081c0b6527-square.jpg?v=20"
+    },
+    {
+        "product_id": 137,
+        "product_name": "Mens Everyday T-Shirt - Breathable",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 740,
+            "discounted": 539
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Breathable plain T-shirt, perfect for daily wear and active lifestyles.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020b0e4-square.jpg?v=20"
+    },
+    {
+        "product_id": 138,
+        "product_name": "Mens Premium T-Shirt - Luxe",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 880,
+            "discounted": 679
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Luxurious plain T-shirt with a premium feel and exceptional comfort.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020afde-square.jpg?v=20"
+    },
+    {
+        "product_id": 139,
+        "product_name": "Mens Basic T-Shirt - Essential",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 710,
+            "discounted": 509
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "An essential plain T-shirt for your everyday wardrobe.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 140,
+        "product_name": "Mens Casual T-Shirt - Easy",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 770,
+            "discounted": 569
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Easy-to-wear plain T-shirt for a relaxed and casual style.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e01e099f-square.jpg?v=20"
+    },
+    {
+        "product_id": 141,
+        "product_name": "Mens Everyday T-Shirt - Soft Touch",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 730,
+            "discounted": 529
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Soft touch plain T-shirt for ultimate comfort and style.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 142,
+        "product_name": "Mens Premium T-Shirt - Supreme",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 900,
+            "discounted": 699
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Supreme quality plain T-shirt for a premium wearing experience.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66269c1dde765-square.jpg?v=20"
+    },
+    {
+        "product_id": 143,
+        "product_name": "Mens Basic T-Shirt - Comfort Plus",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 720,
+            "discounted": 519
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Comfort plus plain T-shirt for everyday ease and relaxation.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 144,
+        "product_name": "Mens Casual T-Shirt - Chill",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 760,
+            "discounted": 559
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Chill and relaxed plain T-shirt for casual outings.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e01ee991-square.jpg?v=20"
+    },
+    {
+        "product_id": 145,
+        "product_name": "Mens Everyday T-Shirt - Breeze",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 740,
+            "discounted": 539
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Breeze through your day with this comfortable plain T-shirt.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020b0e4-square.jpg?v=20"
+    },
+    {
+        "product_id": 146,
+        "product_name": "Mens Premium T-Shirt - Elite",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 870,
+            "discounted": 669
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Elite plain T-shirt for those who seek premium quality and comfort.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e01e099f-square.jpg?v=20"
+    },
+    {
+        "product_id": 147,
+        "product_name": "Mens Basic T-Shirt - Simple Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 710,
+            "discounted": 509
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Simple and comfortable plain T-shirt for everyday wear.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 148,
+        "product_name": "Mens Casual T-Shirt - Easy Breezy",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 750,
+            "discounted": 549
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Easy breezy plain T-shirt for a relaxed and casual vibe.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 149,
+        "product_name": "Mens Everyday T-Shirt - Soft Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 730,
+            "discounted": 529
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Soft and comfortable plain T-shirt for daily wear.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e01e099f-square.jpg?v=20"
+    },
+    {
+        "product_id": 150,
+        "product_name": "Mens Premium T-Shirt - Supreme Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 890,
+            "discounted": 689
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Supreme comfort plain T-shirt for a luxurious feel.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 151,
+        "product_name": "Mens Basic T-Shirt - Everyday Essential",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 700,
+            "discounted": 499
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Everyday essential plain T-shirt for your wardrobe.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020b0e4-square.jpg?v=20"
+    },
+    {
+        "product_id": 152,
+        "product_name": "Mens Casual T-Shirt - Relaxed Fit",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 760,
+            "discounted": 559
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Relaxed fit plain T-shirt for a comfortable and casual look.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Relaxed fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 153,
+        "product_name": "Mens Everyday T-Shirt - Light Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 720,
+            "discounted": 519
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Light and comfortable plain T-shirt for everyday use.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 154,
+        "product_name": "Mens Premium T-Shirt - Luxe Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 880,
+            "discounted": 679
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Luxe comfort plain T-shirt for a premium wearing experience.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 155,
+        "product_name": "Mens Basic T-Shirt - Soft Everyday",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 710,
+            "discounted": 509
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Soft everyday plain T-shirt for ultimate comfort.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/66269c1de07e5-square.jpg?v=20"
+    },
+    {
+        "product_id": 156,
+        "product_name": "Mens Casual T-Shirt - Easy Comfort",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 750,
+            "discounted": 549
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Easy comfort plain T-shirt for a relaxed and casual style.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/61507e020b0e4-square.jpg?v=20"
+    },
+    {
+        "product_id": 157,
+        "product_name": "Mens Everyday T-Shirt - Soft Breeze",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 730,
+            "discounted": 529
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Soft breeze plain T-shirt for daily comfort and style.",
+        "specifications": {
+            "material": "Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    },
+    {
+        "product_id": 158,
+        "product_name": "Mens Premium T-Shirt - Supreme Fit",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 900,
+            "discounted": 699
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Supreme fit plain T-shirt for a premium and comfortable experience.",
+        "specifications": {
+            "material": "Organic Cotton",
+            "composition": "100% Cotton",
+            "fit": "Regular fit, Crew Neck",
+            "dye": "Reactive Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a36dd2f-square.jpg?v=20"
+    },
+    {
+        "product_id": 159,
+        "product_name": "Mens Basic T-Shirt - Everyday Soft",
+        "category": "T-shirt",
+        "name": "Plain T-shirt",
+        "price": {
+            "original": 700,
+            "discounted": 499
+        },
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "Everyday soft plain T-shirt for ultimate comfort and relaxation.",
+        "specifications": {
+            "material": "Cotton Blend",
+            "composition": "95% Cotton, 5% Elastane",
+            "fit": "Regular fit, Round Neck",
+            "dye": "Eco-friendly Dye",
+            "preshrunk": "Yes"
+        },
+        "availability": "In Stock",
+        "image_url": "https://fabrilife.com/products/643106a397502-square.jpg?v=20"
+    }
+
+    
+
+
+
+]

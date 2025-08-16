@@ -1,0 +1,253 @@
+[
+    {
+        "product_id": 1,
+        "category": "T-shirt",
+        "name": "Short Sleeve T-shirt"
+    },
+    {
+        "product_id": 2,
+        "category": "T-shirt",
+        "name": "Plain T-shirt"
+    },
+    {
+        "product_id": 3,
+        "category": "T-shirt",
+        "name": "Polo T-shirt"
+    },
+    {
+        "product_id": 4,
+        "category": "Shirt",
+        "name": "Shirt"
+    },
+    {
+        "product_id": 5,
+        "category": "Panjabi",
+        "name": "Panjabi",
+        "count": 82
+    },
+    {
+        "product_id": 6,
+        "category": "Accessories",
+        "name": "Tupi"
+    },
+    {
+        "product_id": 7,
+        "category": "T-shirt",
+        "name": "Full Sleeve T-shirt"
+    },
+    {
+        "product_id": 8,
+        "category": "Sweatshirt",
+        "name": "Sweatshirt"
+    },
+    {
+        "product_id": 9,
+        "category": "Hoodie",
+        "name": "Hoodie"
+    },
+    {
+        "product_id": 10,
+        "category": "Jacket",
+        "name": "Jacket"
+    },
+    {
+        "product_id": 11,
+        "category": "Pants",
+        "name": "Joggers"
+    },
+    {
+        "product_id": 12,
+        "category": "Jeans",
+        "name": "Denim Jeans"
+    },
+    {
+        "product_id": 13,
+        "category": "Pants",
+        "name": "Trouser & Pajamas"
+    },
+    {
+        "product_id": 14,
+        "category": "Shorts",
+        "name": "Shorts"
+    },
+    {
+        "product_id": 15,
+        "category": "Underwear",
+        "name": "Underwear"
+    },
+    {
+        "product_id": 16,
+        "category": "Socks",
+        "name": "Socks"
+    },
+    {
+        "product_id": 17,
+        "category": "Sports",
+        "name": "Sports Trouser"
+    },
+    {
+        "product_id": 18,
+        "category": "Sports",
+        "name": "Sports T-shirt"
+    },
+    {
+        "product_id": 19,
+        "category": "Sports",
+        "name": "Football Jersey"
+    },
+    {
+        "product_id": 20,
+        "category": "Womens",
+        "name": "Kurti, Tunic & Tops"
+    },
+    {
+        "product_id": 21,
+        "category": "T-shirt",
+        "name": "Short Sleeve T-shirt"
+    },
+    {
+        "product_id": 22,
+        "category": "Pants",
+        "name": "Comfy Trouser"
+    },
+    {
+        "product_id": 23,
+        "category": "T-shirt",
+        "name": "Polo T-shirt"
+    },
+    {
+        "product_id": 24,
+        "category": "T-shirt",
+        "name": "Short Sleeve T-shirt"
+    },
+    {
+        "product_id": 25,
+        "category": "T-shirt",
+        "name": "Maggie Tees"
+    },
+    {
+        "product_id": 26,
+        "category": "T-shirt",
+        "name": "Full Sleeve T-shirt"
+    },
+    {
+        "product_id": 27,
+        "category": "T-shirt",
+        "name": "Plain T-shirt"
+    },
+    {
+        "product_id": 28,
+        "category": "Shorts",
+        "name": "Shorts"
+    },
+    {
+        "product_id": 29,
+        "category": "Pants",
+        "name": "Trouser"
+    },
+    {
+        "product_id": 30,
+        "category": "Accessories",
+        "name": "Face Mask"
+    },
+    {
+        "product_id": 31,
+        "category": "Accessories",
+        "name": "Face Mask (Kids)"
+    },
+    {
+        "product_id": 32,
+        "category": "Designer Edition",
+        "name": "Designer Edition"
+    },
+    {
+        "product_id": 33,
+        "category": "Accessories",
+        "name": "Belt"
+    },
+    {
+        "product_id": 34,
+        "category": "Kids",
+        "name": "Boys Combo Set"
+    },
+    {
+        "product_id": 35,
+        "category": "Accessories",
+        "name": "Cap"
+    },
+    {
+        "product_id": 36,
+        "category": "Pants",
+        "name": "Cargo Pants"
+    },
+    {
+        "product_id": 37,
+        "category": "Pants",
+        "name": "Chino Pants"
+    },
+    {
+        "product_id": 38,
+        "category": "Shorts",
+        "name": "Chino Shorts"
+    },
+    {
+        "product_id": 39,
+        "category": "T-shirt",
+        "name": "Dropshoulder"
+    },
+    {
+        "product_id": 40,
+        "category": "Kids",
+        "name": "Girls Combo Set"
+    },
+    {
+        "product_id": 41,
+        "category": "Merchandise",
+        "name": "GP Merchandise"
+    },
+    {
+        "product_id": 42,
+        "category": "Kids",
+        "name": "Kids Design Shorts"
+    },
+    {
+        "product_id": 43,
+        "category": "Kids",
+        "name": "Kids Girls 2pc Set"
+    },
+    {
+        "product_id": 44,
+        "category": "Kids",
+        "name": "Kids Girls Frock"
+    },
+    {
+        "product_id": 45,
+        "category": "Kids",
+        "name": "Kids Jacket"
+    },
+    {
+        "product_id": 46,
+        "category": "Kids",
+        "name": "Kids Panjabi"
+    },
+    {
+        "product_id": 47,
+        "category": "Pants",
+        "name": "Palazzo"
+    },
+    {
+        "product_id": 48,
+        "category": "Accessories",
+        "name": "Wallet"
+    },
+    {
+        "product_id": 49,
+        "category": "Womens",
+        "name": "Womens Pajamas"
+    },
+    {
+        "product_id": 50,
+        "category": "Womens",
+        "name": "Womens Pants"
+    }
+]
