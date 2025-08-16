@@ -7,7 +7,7 @@ const ViewAllProducts = () => {
 
   // Load All Products from API
   useEffect(() => {
-    fetch("http://localhost:5001/products")
+    fetch("https://favorite-com-server-side-main.vercel.app")
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error(err));
@@ -16,7 +16,7 @@ const ViewAllProducts = () => {
   // Delete Product
   const handleDelete = (id) => {
     if (window.confirm("Are you sure you want to delete this product?")) {
-      fetch(`http://localhost:5001/products/${id}`, {
+      fetch(`https://favorite-com-server-side-main.vercel.app/${id}`, {
         method: "DELETE",
       })
         .then((res) => res.json())
@@ -32,7 +32,7 @@ const ViewAllProducts = () => {
     const newAvailability =
       currentAvailability === "In Stock" ? "Out of Stock" : "In Stock";
 
-    fetch(`http://localhost:5001/products/${id}`, {
+    fetch(`https://favorite-com-server-side-main.vercel.app/${id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ availability: newAvailability }),
@@ -70,7 +70,7 @@ const ViewAllProducts = () => {
   // Save Update (From Modal Form)
   const handleSaveUpdate = (e) => {
     e.preventDefault();
-    fetch(`http://localhost:5001/products/${editingProduct._id}`, {
+    fetch(`https://favorite-com-server-side-main.vercel.app/${editingProduct._id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

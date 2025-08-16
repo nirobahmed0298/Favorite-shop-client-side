@@ -28,7 +28,7 @@ const ProductDetails = () => {
             };
 
             // Send order data to your backend to initiate payment via SSLCommerz
-            const response = await axios.post('http://localhost:5001/create_payment', orderData);
+            const response = await axios.post('https://favorite-com-server-side-main.vercel.app/create_payment', orderData);
 
             // Handle the response from the backend which includes SSLCommerz payment URL
             if (response.data.status === 'success') {

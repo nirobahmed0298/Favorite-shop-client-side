@@ -3,7 +3,6 @@ import { Helmet } from 'react-helmet-async';
 import { FaShoppingCart } from 'react-icons/fa';
 import { Link, NavLink, useParams } from 'react-router-dom';
 import noDataImg from '../../../assets/NoData.jpg'
-import { AuthContext } from '../../Provider/AuthProvider';
 import Footer from './Footer/Footer';
 const Home = ({ search }) => {
     let { name } = useParams();
@@ -20,13 +19,19 @@ const Home = ({ search }) => {
             .catch(error => console.error("Error fetching categories:", error));
 
         // Fetch products from API
-        fetch('http://localhost:5001/products') // Replace with actual API URL
-            .then(res => res.json())
+        fetch('https://favorite-com-server-side-main.vercel.app/products')
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error(`HTTP error! status: ${res.status}`);
+                }
+                return res.json();
+            })
             .then(data => {
                 setData(data);
                 setLoading(false);
             })
-            .catch(error => console.error("Error fetching products:", error));
+            .catch(error => console.error("Error fetching products:", error.message));
+
     }, []);
 
 

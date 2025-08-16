@@ -30,7 +30,7 @@ const DashboardHome = () => {
 
     // Fetch Users
     useEffect(() => {
-        fetch("http://localhost:5001/users")
+        fetch("https://favorite-com-server-side-main.vercel.app/users")
             .then((res) => res.json())
             .then((data) => {
                 setUsers(data);
@@ -41,7 +41,7 @@ const DashboardHome = () => {
 
     // Fetch Products
     useEffect(() => {
-        fetch("http://localhost:5001/products")
+        fetch("https://favorite-com-server-side-main.vercel.app")
             .then((res) => res.json())
             .then((data) => {
                 setProducts(data);

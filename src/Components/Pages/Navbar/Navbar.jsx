@@ -11,7 +11,7 @@ const Navbar = ({ search, setSearch }) => {
 
     useEffect(() => {
         if (user?.email) {
-            fetch(`http://localhost:5001/users/role/${user.email}`)
+            fetch(`https://favorite-com-server-side-main.vercel.app/users/role/${user.email}`)
                 .then(res => res.json())
                 .then(data => {
                     setRole(data);

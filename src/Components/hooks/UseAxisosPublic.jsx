@@ -1,6 +1,6 @@
 import axios from "axios";
 let axiosPublic = axios.create({
-    baseURL: 'http://localhost:5001'
+    baseURL: 'https://favorite-com-server-side-main.vercel.app'
 })
 const UseAxisosPublic = () => {
     return axiosPublic;
