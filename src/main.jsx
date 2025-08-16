@@ -42,7 +42,7 @@ const router = createBrowserRouter([
       {
         path: '/product/:id',
         element: <ProductDetails />,
-        loader: ({ params }) => fetch(`https://favorite-com-server-side-main.vercel.app/${params.id}`)
+        loader: ({ params }) => fetch(`https://favorite-com-server-side-main.vercel.app/products/${params.id}`)
       },
       {
         path: '/login',

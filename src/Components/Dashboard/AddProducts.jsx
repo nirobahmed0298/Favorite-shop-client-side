@@ -51,7 +51,7 @@ const AddProducts = () => {
     console.log("Form Data:", formData);
 
     try {
-      const res = await fetch("https://favorite-com-server-side-main.vercel.app", {
+      const res = await fetch("https://favorite-com-server-side-main.vercel.app/products", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData)

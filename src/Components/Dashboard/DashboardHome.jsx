@@ -41,7 +41,7 @@ const DashboardHome = () => {
 
     // Fetch Products
     useEffect(() => {
-        fetch("https://favorite-com-server-side-main.vercel.app")
+        fetch("https://favorite-com-server-side-main.vercel.app/products")
             .then((res) => res.json())
             .then((data) => {
                 setProducts(data);
